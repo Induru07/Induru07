@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there, I'm Induru Adeesha! 👋
 
-<!--
-**Induru07/Induru07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <p><strong>Computer Science & Engineering Student @ University of Moratuwa 🎓 </strong></p>
+  <p>Passionate about competitive programming, hardware design, and intelligent systems.</p>
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I'm Currently Building
+- 🤖 **AMR Warehouse Simulation:** Ground-truth-free autonomy using PyBullet, particle filters, and LiDAR.
+- ✂️ **Snip ME:** A salon discovery and booking backend built with Java, Spring Boot, and Spring Data JPA.
+- 🌊 **ResQlink:** Real-time flood update and disaster assistance platform using Node.js, JavaScript, and MongoDB.
+
+### 🛠️ Tech Stack & Tools
+- **Languages:** Java, JavaScript, Python, VHDL
+- **Backend & Database:** Spring Boot, Node.js, MongoDB, Spring Data JPA
+- **Hardware & Sim:** Xilinx Vivado, PyBullet
+- **Problem Solving:** HackerRank, LeetCode, IEEEXtreme
+
+
+
+---
+
+### 📫 Let's Connect
+<!-- Replace the '#' below with your actual profile links -->
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/induru-adeesha-85b019343/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](www.induruadeesha2356@gmail.com)
