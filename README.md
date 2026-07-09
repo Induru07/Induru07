@@ -18,6 +18,13 @@
 - **Hardware & Sim:** Xilinx Vivado, PyBullet
 - **Problem Solving:** HackerRank, LeetCode, IEEEXtreme
 
+### 📊 GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Induru07&show_icons=true&theme=radium&hide_border=true" alt="Induru07's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Induru07&layout=compact&theme=radium&hide_border=true" alt="Induru07's Top Languages" />
+</div>
+
 
 
 ---
